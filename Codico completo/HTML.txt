@@ -1,0 +1,67 @@
+HTML
+/////////////////////////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body class="bg-primary"
+  >
+
+<div class="navbar d-flex">
+  <div> <img src="imagenes/logo/logo.png" width="30%" alt="este es el logo de instagram"> </div>
+  <div> 
+  <input class="buscar bg-primary" type="search" placeholder="buscar" >  
+  </div>
+
+  <div class="iconos d-flex" > 
+
+<div class="icon"><i class="fas fa-home"></i></div>
+<div class="icon"><i class="fab fa-facebook-messenger"></i> </div>
+
+<div class="icon"><i class="far fa-plus-square"></i></div>
+<div class="icon"><i class="far fa-compass"></i></div>
+<div class="icon"><i class="far fa-heart"></i></div>
+<div class="icon"><i class="far fa-user-circle"></i></div>
+
+  </div>
+
+
+
+</div>
+
+
+  </div>
+</div> 
+
+    
+<div class="content d-flex"> 
+  <div class="publicaciones" > 
+
+    <div class="d-flex circulos">
+  
+      <div class="circulo" >Desconocido </div>
+      <div class="circulo">El raro</div>
+      <div class="circulo">El pana</div>
+      <div class="circulo">El amigo</div>
+      <div class="circulo">El Vecino</div>
+    </div>
+
+  </div>
+
+
+  <div class="aside"></div>
+
+</div>
+
+
+
+<script src="https://kit.fontawesome.com/c4fbcd3b28.js" crossorigin="anonymous"></script>
+
+</body>
+</html>
